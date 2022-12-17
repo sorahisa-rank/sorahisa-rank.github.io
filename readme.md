@@ -9,13 +9,15 @@
 ## 資訊學科能力競賽
 
 -   [全國資訊學科能力競賽 決賽](https://sorahisa-rank.github.io/nhspc-fin/)
-    -   2017 - 2021
+    -   2017 - 2022
 
 -   [全國資訊學科能力競賽 模擬賽](https://sorahisa-rank.github.io/nhspc-sim/)
-    -   2019 - 2021
+    -   2019 - 2022
 
 -   [全國資訊學科能力競賽 地區賽](https://sorahisa-rank.github.io/nhspc-reg/)
-    -   北市賽：2019 - 2021
+    -   北市賽：2019 - 2022
+    -   新北市：板中模擬賽 2022
+    -   高市賽：2022
 
 
 ## 校內賽
@@ -33,7 +35,7 @@
     -   2021 - 2022
 
 -   [臺南一中 校內賽](https://sorahisa-rank.github.io/sh-tnfsh/)
-    -   2019 - 2022 初賽
+    -   2019 - 2022
 
 -   [宜蘭高中 校內賽](https://sorahisa-rank.github.io/sh-ylsh/)
     -   2022
@@ -42,7 +44,7 @@
 ## 0x00
 
 -   [0x00](https://sorahisa-rank.github.io/0x00/)
-    -   0x00 - 0x06
+    -   0x00 - 0x08
 
 
 ## 其他
