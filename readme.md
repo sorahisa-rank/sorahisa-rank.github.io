@@ -3,7 +3,7 @@
 ## 資訊奧林匹亞競賽
 
 -   [臺灣國際資訊奧林匹亞競賽 初選 Taiwan Olympiad in Informatics](https://sorahisa-rank.github.io/oi-toi/)
-    -   2018 - 2022
+    -   2018 - 2023
 
 
 ## 資訊學科能力競賽
