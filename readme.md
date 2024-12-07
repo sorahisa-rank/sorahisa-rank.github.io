@@ -9,10 +9,10 @@
 ## 資訊學科能力競賽
 
 -   [全國資訊學科能力競賽 決賽](https://sorahisa-rank.github.io/nhspc-fin/)
-    -   2017 - 2023
+    -   2017 - 2024
 
 -   [全國資訊學科能力競賽 模擬賽](https://sorahisa-rank.github.io/nhspc-sim/)
-    -   2019 - 2023
+    -   2019 - 2024
 
 -   [全國資訊學科能力競賽 地區賽](https://sorahisa-rank.github.io/nhspc-reg/)
     -   北市賽：2019 - 2023
