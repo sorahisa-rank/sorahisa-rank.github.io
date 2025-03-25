@@ -65,5 +65,5 @@
     -   2022
 -   [JOI](https://sorahisa-rank.github.io/oi-joi/)
     -   JOI Final Round 本選 Mirror：2022 - 2024
-    -   JOI Spring Camp 春合宿 / 春季トレーニング Mirror：2022 - 2024
+    -   JOI Spring Camp 春合宿 / 春季トレーニング Mirror：2022 - 2025
     -   JOI Open Contest：2024
