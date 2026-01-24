@@ -3,16 +3,18 @@
 ## 資訊奧林匹亞競賽
 
 -   [臺灣國際資訊奧林匹亞競賽 初選 Taiwan Olympiad in Informatics](https://sorahisa-rank.github.io/oi-toi/)
-    -   2018 - 2024
+    -   2018 - 2025
+-   [臺灣歐洲女子資訊奧林匹亞競賽 初選 Taiwan European Girls' Olympiad in Informatics](https://sorahisa-rank.github.io/oi-egoi_tw/)
+    -   2026
 
 
 ## 資訊學科能力競賽
 
 -   [全國資訊學科能力競賽 決賽](https://sorahisa-rank.github.io/nhspc-fin/)
-    -   2017 - 2024
+    -   2017 - 2025
 
 -   [全國資訊學科能力競賽 模擬賽](https://sorahisa-rank.github.io/nhspc-sim/)
-    -   2019 - 2024
+    -   2019 - 2025
 
 -   [全國資訊學科能力競賽 地區賽](https://sorahisa-rank.github.io/nhspc-reg/)
     -   北市賽：2019 - 2023
@@ -55,15 +57,20 @@
 
 -   [AA 競程 - TOI 模擬賽](https://sorahisa-rank.github.io/oi-toi/)
     -   2024
+-   [APIO](https://sorahisa-rank.github.io/oi-apio/)
+    -   2025
 -   [CEOI](https://sorahisa-rank.github.io/oi-ceoi/)
     -   2023
 -   [EJOI](https://sorahisa-rank.github.io/oi-ejoi/)
     -   2023
 -   [IOI](https://sorahisa-rank.github.io/oi-ioi/)
-    -   2023
+    -   2023 / 2025
 -   [IONCamp](https://sorahisa-rank.github.io/ioncamp/)
     -   2022
 -   [JOI](https://sorahisa-rank.github.io/oi-joi/)
     -   JOI Final Round 本選 Mirror：2022 - 2024
     -   JOI Spring Camp 春合宿 / 春季トレーニング Mirror：2022 - 2025
-    -   JOI Open Contest：2024
+    -   JOI Open Contest：2024 - 2025
+-   [YTP 少年圖靈計畫](https://sorahisa-rank.github.io/ytp/)
+    -   初賽：2023 高中組 / 2025
+    -   決賽：2024 - 2025
